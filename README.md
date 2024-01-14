@@ -38,7 +38,7 @@ pip install pandas requests xlsxwriter
 
 ## Features
 
-• Real-Time Data: Utilizes the Yahoo Finance API to fetch real-time stock information.
-• Equal-Weighting: Creates an equal-weight version of the S&P 500 index.
-• Portfolio Recommendation: Calculates the number of shares to buy for each stock based on the user's portfolio size.
-• Excel Output: Generates an Excel file with recommended trades.
+- Real-Time Data: Utilizes the Yahoo Finance API to fetch real-time stock information.
+- Equal-Weighting: Creates an equal-weight version of the S&P 500 index.
+- Portfolio Recommendation: Calculates the number of shares to buy for each stock based on the user's portfolio size.
+- Excel Output: Generates an Excel file with recommended trades.
