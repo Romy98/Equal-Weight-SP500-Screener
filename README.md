@@ -1,0 +1,1 @@
+# Equal-Weight-SP500-Screener
