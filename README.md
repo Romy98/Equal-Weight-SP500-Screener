@@ -32,9 +32,17 @@ pip install pandas requests xlsxwriter
 ## Usage
 
 1. Clone the repository.
-2. Run the script: python equal_weight_sp500_screener.py.
-3. Enter the value of your portfolio when prompted.
-4. The program will generate a recommended trades Excel file (recommended_trades.xlsx).
+```bash
+git clone [your-repository-url]
+```
+2. Get your Yahoo-Finance api key here https://rapidapi.com/sparior/api/yahoo-finance15/pricing
+3. Create a .py file in the root directory of your project and add the following:
+```bash
+X_RapidAPI_Key = "Your-api-key"
+```
+4. Run the script: python equal_weight_sp500_screener.py.
+5. Enter the value of your portfolio when prompted.
+6. The program will generate a recommended trades Excel file (recommended_trades.xlsx).
 
 ## Features
 
